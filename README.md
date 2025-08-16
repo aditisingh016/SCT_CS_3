@@ -13,6 +13,8 @@ SCT_CS_3/
 │── README.md                                 # Project documentation
 
 
+   
+
 ## 🚀 Features
 - Real-time password strength checking  
 - Visual indicators for **Weak**, **Medium**, and **Strong**  
