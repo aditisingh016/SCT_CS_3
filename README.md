@@ -7,9 +7,13 @@ It uses **HTML, CSS, and JavaScript** to provide instant feedback on how strong 
 ## 📂 Project Structure
 
 SCT_CS_3/
+
 │── Password_Strength_Checker_prgm.py         # Python script for password strength checking
+
 │── Password_Strength_Checker_Output.png      # Screenshot of program output
+
 │── Password_Strength_Checker_Output_Example.png # Example password check result
+
 │── README.md                                 # Project documentation
 
 
